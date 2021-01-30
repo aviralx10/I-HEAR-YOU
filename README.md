@@ -10,7 +10,7 @@ This App can detect the 26 letters of the American Sign Language (from A-Z) and 
 # HOW I BUILT IT<br>
 1. DATASET - I used the ASL Alphabet dataset on kaggle - https://www.kaggle.com/grassknoted/asl-alphabet<br>
 2. TRAINING AND TESTING - I used the CreateML framework inorder to train and test the model.<br>
-3. ACUURACY - In the above model, I was able to achieve the accuracy of 73%.<br>
+3. ACCURACY - In the above model, I was able to achieve the accuracy of 73%.<br>
 
 # TECHNOLOGIES USED<br>
 SWIFT,UIKIT,CREATEML,COREML
